@@ -1,5 +1,5 @@
 _repo: Runousoppi_54728
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Calamnius, J. W.
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8199'
     url: http://www.gutenberg.org/2009/agents/8199
     wikipedia: http://bibliografia.kuopio.fi/kirjailijat/c/calamnius_johan/
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aristotle
@@ -23,6 +26,8 @@ creator:
     - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
     - http://en.wikipedia.org/wiki/Aristotle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54728#Runousoppi
 gutenberg_issued: '2017-05-15'
 gutenberg_type: Text
 identifiers:
