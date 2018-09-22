@@ -1,0 +1,37 @@
+_repo: Runousoppi_54728
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Calamnius, J. W.
+    alias: Calamnius, Johan Wiktor
+    birthdate: 1838
+    deathdate: 1891
+    gutenberg_agent_id: '8199'
+    url: http://www.gutenberg.org/2009/agents/8199
+    wikipedia: http://bibliografia.kuopio.fi/kirjailijat/c/calamnius_johan/
+creator:
+  author:
+    agent_name: Aristotle
+    aliases:
+    - Αριστοτέλης
+    - Aristoteles
+    birthdate: -384
+    deathdate: -322
+    gutenberg_agent_id: '2747'
+    url: http://www.gutenberg.org/2009/agents/2747
+    wikipedia:
+    - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
+    - http://en.wikipedia.org/wiki/Aristotle
+description: ''
+gutenberg_issued: '2017-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54728'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Runousoppi
+url: http://www.gutenberg.org/ebooks/54728
